@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/Nebil-Nej/social-links-profile-main]
-- Live Site URL: [https://nebilsocial-link.netlify.app/]
+- Solution URL: [GITHUB](https://github.com/Nebil-Nej/social-links-profile-main)
+- Live Site URL: [Netlify](https://nebilsocial-link.netlify.app/)
 
 ## My process
 
